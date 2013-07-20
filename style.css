@@ -1,0 +1,186 @@
+/* --------- Begin Reset --------- */
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* ---------- End Reset ---------- */
+
+
+body {
+    background: #f0e68c;
+    color: #333;
+}
+
+a:link, a:visited {
+    color: #85755b;
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    color: #903;
+    text-decoration: underline;
+}
+
+
+div.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+}
+
+header {
+    background-image: url('MountainBanner.png');
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    display: block;
+    height: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    position: relative;
+    text-align: left;
+    width: 940px;
+}
+
+/* TODO: Use a Google font */
+header h1 {
+    float: left;
+    font-size: 32px;
+    letter-spacing: .15em;
+    line-height: 48px;
+    text-align: left;
+    word-spacing: .5em;
+}
+
+#verse {
+    float: right;
+    width: 375px;
+    font-style: italic;
+    position: absolute;
+    right: 0px;
+    top: 15px;
+} 
+
+#subtitle {
+    color: #4bb05e;
+    font-style: italic;
+} 
+
+nav {
+    clear: both;
+    display: block;
+    word-spacing: .25em;
+    margin-top: 150px;
+    width: 960px;
+}
+
+nav ul {
+    padding: 5px;
+    width: 960px;
+}
+
+nav ul li {
+    display: inline;
+    padding-left: 35px;
+    padding-right: 30px;
+}
+
+article {
+    border: solid 2px #85755b;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    float: left;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    width: 606px;
+}
+
+p {
+    margin-top: 10px;
+}
+
+aside {
+    border: solid 2px #85755b;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    float: right;
+    padding: 10px;
+    width: 296px;
+}
+aside li {
+    display: inline;
+    padding: 15px;
+}
+
+footer {
+    background: #c36;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    clear: both;
+    color: #fffacd;
+    display: block;
+    letter-spacing: .25em;
+    width: 960px;
+}
+
+ul {
+    padding: 10px 0;
+}
+
+/* How to float these? */
+footer ul li {
+    display: inline;
+    padding: 40px;
+}
+
+#citation {
+    font-size: 10px;
+    text-align: center;
+    margin-top: 10px;
+}
