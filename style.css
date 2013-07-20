@@ -52,7 +52,7 @@ table {
 
 
 body {
-    background: #f0e68c url('MountainBanner.png') no-repeat;
+    background: #ffc url('MountainBanner.png') no-repeat;
     color: #333;
 }
 
@@ -82,6 +82,7 @@ header {
 }
 
 header h1 {
+    color: #f90;
     font-size: 32px;
     letter-spacing: .15em;
     line-height: 48px;
@@ -97,15 +98,15 @@ header h1 {
 } 
 
 #subtitle {
-    color: #4bb05e;
+    color: #f90;
     font-size: 24px;
     font-style: italic;
     letter-spacing: .15em;
 } 
 
-#post {
+#postdate {
     color: #4bb05e;
-    font-size: 24px;
+    font-style: italic;
 } 
 nav {
     float:left;

@@ -19,10 +19,10 @@ title: Blog Main Page
         <div class="container">
             <article> 
               {% for post in site.posts %}
-                <div id="post">
+                <div id="subtitle">
                     {{post.title}}
                 </div>
-                <div id="subtitle">
+                <div id="postdate">
                     {{post.date | date_to_string}}
                 </div>
                 {{post.content}}
