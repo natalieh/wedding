@@ -1,0 +1,2 @@
+baseurl: /wedding
+include: [index.html, _includes/header.html]
