@@ -62,7 +62,7 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-    color: #903;
+    color: #333;
     text-decoration: underline;
 }
 
@@ -131,12 +131,8 @@ nav ul li {
 }
 
 article {
-    border: solid 2px #85755b;
-    -moz-border-radius: 15px;
-    border-radius: 15px;
-    float: left;
-    margin-bottom: 10px;
-    margin-right: 10px;
+    float: right;
+    margin-left: 10px;
     padding: 10px;
     width: 606px;
 }
@@ -145,11 +141,15 @@ p {
     margin-top: 10px;
 }
 
+img {
+    background: #4bb05e;
+    float: left;
+    padding: 4px;
+    width: 200px;
+}
+
 aside {
-    border: solid 2px #85755b;
-    -moz-border-radius: 15px;
-    border-radius: 15px;
-    float: right;
+    float: left;
     padding: 10px;
     width: 296px;
 }
