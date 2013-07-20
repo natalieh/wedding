@@ -1,1 +1,2 @@
 baseurl: /wedding
+paginate_path: "blog/page:num"
