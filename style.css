@@ -95,14 +95,14 @@ header h1 {
     text-align: center;
 } 
 
-#subtitle {
+#pagetitle {
     color: #f90;
     font-size: 24px;
     font-style: italic;
     letter-spacing: .15em;
 } 
 
-#postdate {
+#subtitle {
     color: #4bb05e;
     font-style: italic;
 } 
