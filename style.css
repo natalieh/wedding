@@ -109,7 +109,7 @@ header h1 {
 nav {
     float:left;
     display: block;
-    margin: 0 10px 0 0;
+    margin-right: 20px;
     width: 140px;
 }
 
@@ -150,4 +150,10 @@ img {
 aside {
     clear: both;
     width: 960px;
+}
+
+blockquote {
+    border-left: 2px solid #4bb05e;
+    color: #85755b;
+    margin-left: 20px;
 }
