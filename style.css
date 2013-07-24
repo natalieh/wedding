@@ -140,10 +140,9 @@ p {
 }
 
 img {
-    background: #4bb05e;
+    border: 4px solid #4bb05e;
     float: right;
     margin: 0 0 10px 40px;
-    padding: 4px;
     width: 200px;
 }
 
