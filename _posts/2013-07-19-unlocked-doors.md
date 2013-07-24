@@ -1,5 +1,6 @@
 ---
 title: Unlocked Doors
+layout: default
 ---
 
 Cory’s train ran late on Sunday morning.  I waited in the car outside of the station, but eventually parked around the block to avoid two homeless men who were walking nearby.  They probably couldn’t care less about me, but the station was empty and I somehow felt powerless even as I sat in my large, locked vehicle.  I was thankful to hear the approach of the train, but surprised to see Cory come up the stairs with a large wheeled duffel bag.  We had planned to take some engagement photos after church, but did he really need to pack so many outfits?  Perhaps he lost his backpack?  An older woman with long, blond hair followed him up, carrying two more smaller bags.  Another homeless person.  But I couldn’t lock my doors and drive away from this one, because Cory set her bags in the trunk and invited her into the car.
