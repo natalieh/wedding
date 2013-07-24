@@ -12,24 +12,9 @@
     </head>
     
     <body>
-        <header>
-            <h1>Cory & Natalie</h1>
-            <div id="verse">
-            "Neither death nor life...will be able to separate us from the love of God that is in Christ Jesus our Lord." -Romans 8:38-39 NIV
-            </div> 
-        </header>
         <div class="container">         
-            <nav>
-                <ul>
-                    <li><a href="{{site.url}}/">Home</a></li>
-                    <li><a href="{{site.url}}/about">Our Story</a></li>
-                    <li><a href="{{site.url}}/blog">Blog</a></li>
-                    <li><a href="{{site.url}}/thewedding">The Wedding</a></li>
-                    <li><a href="{{site.url}}/travel">Your Stay</a></li>
-                    <li><a href="{{site.url}}/rsvp">RSVP</a></li>
-                </ul>
-            </nav> 
-            {{ content }}
+            {% include header.html %}
+                {{ content }}
         </div>
     </body>
 </html>
