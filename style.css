@@ -155,5 +155,6 @@ aside {
 blockquote p {
     border-left: 2px solid #4bb05e;
     color: #85755b;
-    margin-left: 20px;
+    margin-left: 40px;
+    padding-left: 10px;
 }
