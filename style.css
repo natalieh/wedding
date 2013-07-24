@@ -95,7 +95,7 @@ header h1 {
     text-align: center;
 } 
 
-#pagetitle {
+#pagetitle a {
     color: #f90;
     font-size: 24px;
     font-style: italic;
