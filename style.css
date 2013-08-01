@@ -95,14 +95,14 @@ header h1 {
     text-align: center;
 } 
 
-#pagetitle, #pagetitle a {
+div.pagetitle, div.pagetitle a {
     color: #f90;
     font-size: 24px;
     font-style: italic;
     letter-spacing: .15em;
 } 
 
-#subtitle {
+div.subtitle {
     color: #4bb05e;
     font-style: italic;
 } 
