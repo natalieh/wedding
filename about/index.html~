@@ -3,7 +3,7 @@ title: Our Story
 layout: default
 ---
 <article> 
-    <div id="pagetitle">
+    <div class="pagetitle">
         Our Story
     </div>
     <p>
