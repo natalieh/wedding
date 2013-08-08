@@ -13,4 +13,6 @@ Stop.
 
 Us, all of us.  God’s love was not sent just for Cory and me.  This woman needed some love, and it is Christ who died and rose again for her and us all.  We pray that she may one day know Christ’s love, and that we will always unlock the car doors for those who need it.
 
+-Natalie
+
 
