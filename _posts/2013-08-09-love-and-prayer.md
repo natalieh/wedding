@@ -1,5 +1,5 @@
 ---
-title: Love and Prayer
+title: Love & Prayer
 layout: post
 ---
 
