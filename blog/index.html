@@ -15,7 +15,7 @@ layout: default
     </div>
     {{post.content}}
 
-    <a href="#" 
+    <a class="social" href="#" 
       onclick="
         window.open(
           'https://www.facebook.com/sharer/sharer.php?u='+'{{site.url}}{{post.url}}', 
@@ -24,6 +24,7 @@ layout: default
         return false;">
       Share on Facebook
     </a>
+    <br>
   {% endfor %}
 </article>
 

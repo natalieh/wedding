@@ -65,11 +65,18 @@ a:hover, a:active {
     color: #f90;
 }
 
+a.social {
+    position: absolute;
+    right: 0px;
+    text-decoration: underline;
+}
+
 
 div.container {
     margin-left: auto;
     margin-right: auto;
     margin-top: 25px;
+    position: relative;
     width: 960px;
 }
 
