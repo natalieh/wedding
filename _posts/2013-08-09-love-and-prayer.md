@@ -14,7 +14,8 @@ Save-the-Dates, a guest list had to be compiled, and many other decisions had to
 
 And while all of the things that have happened in this past month have been good, I neglected one thing. My prayer
 life was virtually non-existent. During the first month of this season of preparation, I went solo and didn't seek God for...
-well, anything. 
+well, anything. Somewhere during all the business, I took God from the center of our relationship and replaced Him with her
+(along with a generous helping of myself).
 
 In the meantime, I was trying my best to love my new fiancee. You know, things like calling
 just to say hello and tell her how beautiful she is and how much I'm in love with her. These things are really
