@@ -14,6 +14,16 @@ layout: default
         {{post.date | date_to_long_string}}
     </div>
     {{post.content}}
+
+    <a href="#" 
+      onclick="
+        window.open(
+          'https://www.facebook.com/sharer/sharer.php?u='+'{{site.url}}{{post.url}}', 
+          'facebook-share-dialog', 
+          'width=626,height=436'); 
+        return false;">
+      Share on Facebook
+    </a>
   {% endfor %}
 </article>
 
