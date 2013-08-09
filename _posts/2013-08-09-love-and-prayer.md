@@ -1,7 +1,7 @@
---
+---
 title: Love and Prayer
 layout: post
---
+---
 
 This past month has been busy.
 
