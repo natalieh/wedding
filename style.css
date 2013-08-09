@@ -125,7 +125,7 @@ nav ul li {
     padding-bottom: 10px;
     padding-top: 10px;
     text-align: center;
-    width: 100px;
+    width: 120px;
 }
 
 nav ul li:last-child{
@@ -133,7 +133,7 @@ nav ul li:last-child{
     padding-bottom: 10px;
     padding-top: 10px;
     text-align: center;
-    width: 100px;
+    width: 120px;
 }
 
 article {
