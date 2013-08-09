@@ -9,18 +9,17 @@ I proposed to Natalie about a month ago. That week was spent planning and spendi
 she flew back to Colorado the next week. The next day, my parents flew in to town. For the next week and a half,
 I played host and tour guide, showing them around the city I will call home. After they left, my work exploded
 with activity as the entire Argentina office was flown in for workshops, dinners, and special events. 
-During all of this, Natalie and I were making wedding plans. Venues had to be arranged, pictures had to be taken for
-Save-the-Dates, a guest list had to be compiled, and many other decisions had to be made!
+During all of this, Natalie and I were making wedding plans. Venues had to be arranged, Save-the-Dates had to be made, a guest list had to be compiled, and many other decisions had to be made!
 
 And while all of the things that have happened in this past month have been good, I neglected one thing. My prayer
 life was virtually non-existent. During the first month of this season of preparation, I went solo and didn't seek God for...
 well, anything. Somewhere during all the business, I took God from the center of our relationship and replaced Him with her
 (along with a generous helping of myself).
 
-In the meantime, I was trying my best to love my new fiancee. You know, things like calling
+In the meantime, I was trying my best to love my new fiance. You know, things like calling
 just to say hello and tell her how beautiful she is and how much I'm in love with her. These things are really
 good and important, but they were out of my own attempts at love, rather than Christ's love being displayed through me.
-Instead of building her up, these words which were supposed to be filled with love were actually "clanging cymbals".
+Instead of building her up, these words which were supposed to be filled with love were actually "clanging cymbals."
 How can I speak to her with the love of Christ if I am not seeking and desiring that love myself on a regular basis?
 
 One of the best things about being with a woman who is so in sync with the Spirit is that she notices
