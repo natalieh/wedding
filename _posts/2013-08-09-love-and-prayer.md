@@ -3,7 +3,7 @@ title: Love and Prayer
 layout: post
 ---
 
->This past month has been busy.
+This past month has been busy.
 
 I proposed to Natalie about a month ago. That week was spent planning and spending as much time together as we could before
 she flew back to Colorado the next week. The next day, my parents flew in to town. For the next week and a half,
