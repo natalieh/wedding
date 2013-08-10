@@ -146,6 +146,15 @@ p {
     padding-left: 20px;
 }
 
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table caption {
+    font-style: bold;
+}
+
 img.lgportrait {
     margin: 10px;
     width: 200px;
