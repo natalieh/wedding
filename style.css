@@ -96,6 +96,12 @@ header h1 {
     word-spacing: .35em;
 }
 
+header h2 {
+    color: #fb0;
+    font-size: 28px;
+    text-align: center;	
+}
+
 #verse {
     font-style: italic;
     padding: 50px 0px 0 0;
