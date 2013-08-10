@@ -147,12 +147,18 @@ p {
 }
 
 table {
+    border-collapse: collapse;
+    border-spacing: 0;
     margin-left: auto;
     margin-right: auto;
 }
 
+tr, td {
+    padding: 5px;
+}
+
 table caption {
-    font-style: bold;
+    font-weight: bold;
 }
 
 img.lgportrait {
