@@ -1,12 +1,30 @@
 ---
-title: RSVP - Cory & Natalie
+title: Registries - Cory & Natalie
 layout: default
 --- 
 <article>
     <div class="pagetitle">
-        RSVP for Our Wedding
+        Registries
     </div>
     <p>
-        As invitations have not yet been sent, this page is not currently available.  Please return later!
+        We are currently registered at three locations. Gifts can be shipped to Natalie's work address (coming soon). Please note that we will be honeymooning for a week immediately after the wedding, so time
+        the deliveries accordingly!
+        
+        <ul>
+            <li><a href="http://www.target.com/GiftRegistrySearchViewCmd?registryType=WD&jsRequest=true&catalogId=10051&status=completePage&cumulativeTime=-1&listId=rCpAzY145zsm1T1wmsy9pw&noOfPings=1&langId=-1&registryFirstName=cory&segmentGrpName=D&storeId=10151&registryLastName=mead" target="blank">Target</a></li>
+            <li><a href="https://www.bedbathandbeyond.com/store/giftregistry/view_registry_guest.jsp?pwsToken=&eventType=Wedding&registryId=6865157&pwsurl=" target="blank">Bed Bath And Beyond</a></li>
+            <li><a href="http://www.amazon.com/registry/wedding/ORV5M5OEXL1G" target="blank">Amazon.com</a></li>
+        </ul>
     </p>
+    <div class="subtitle">
+        Donation Alternative
+    </div>
+    <p>
+        Because Natalie is already living in San Francisco, you will see that we request a (relatively) limited number of items on our registries.  Therefore, if you do not find an item you wish to purchase from these registries, or if you wish to give an alternative gift, we request that you make a donation to <a href="http://www.worldvision.org" target="blank">World Vision</a> on our behalf.  Please donate via our online World Vision fundraising portal by clicking below.
+        <br>
+        <a href="http://support.worldvision.org/site/TR/GiftCatalog/GiftCatalog?px=1151804&pg=personal&fr_id=1660" target="blank">
+            <img src="worldvision.png">
+        </a>
+    </p>
+    
 </article>

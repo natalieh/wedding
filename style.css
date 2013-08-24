@@ -171,6 +171,10 @@ table caption {
     font-weight: bold;
 }
 
+img {
+    margin: 10px;
+}
+
 img.lgportrait {
     margin: 10px;
     width: 200px;
