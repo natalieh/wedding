@@ -173,41 +173,31 @@ table caption {
 
 img {
     margin: 10px;
-    box-shadow: 3px 3px #85755b;  
 }
 
 img.lgportrait {
+    box-shadow: 3px 3px 5px #85755b;  
     margin: 10px;
     width: 200px;
 }
 
 img.portrait {
+    box-shadow: 3px 3px 5px #85755b;  
     height: 150px;
 }
 
 img.landscape {
+    box-shadow: 3px 3px 5px #85755b;  
     width: 200px;
 }
 
-/*
-.rshadowbox {
+.rimg {
     float: right;
-    background: #85755b;
-    margin: 10px !important;
-    margin: 10px 10px 5px 5px;
 }
 
-.lshadowbox {
+.limg {
     float: left;
-    background: #85755b;
-    margin: 10px !important;
-    margin: 10px 10px 5px 5px;
 }
-
-.rshadowbox img, .lshadowbox img {
-    margin: -3px 3px 3px -3px;
-}
-*/
 
 aside {
     clear: both;
