@@ -173,6 +173,7 @@ table caption {
 
 img {
     margin: 10px;
+    box-shadow: 3px 3px #85755b;  
 }
 
 img.lgportrait {
@@ -188,6 +189,7 @@ img.landscape {
     width: 200px;
 }
 
+/*
 .rshadowbox {
     float: right;
     background: #85755b;
@@ -205,6 +207,7 @@ img.landscape {
 .rshadowbox img, .lshadowbox img {
     margin: -3px 3px 3px -3px;
 }
+*/
 
 aside {
     clear: both;
