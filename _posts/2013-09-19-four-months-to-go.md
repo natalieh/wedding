@@ -2,6 +2,7 @@
 title: Four Months to Go!
 layout: post
 ---
+<img src="portrait.jpg" class="lgportrait">
 
 ![Relaxing in Pittsburgh](/assets/frickpark.jpg)
 
