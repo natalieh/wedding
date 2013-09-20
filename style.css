@@ -71,6 +71,11 @@ a.social {
     text-decoration: underline;
 }
 
+a.rsvp {
+    display: block;
+    size: 16px;
+}
+
 
 div.container {
     margin-left: auto;
