@@ -71,11 +71,23 @@ a.social {
     text-decoration: underline;
 }
 
+a.rsvp {
+    border: 2px solid #4bb05e;
+    display: block;
+    font-size: 24px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    width: 100px;
+}
+
 
 div.container {
     margin-left: auto;
     margin-right: auto;
-    margin-top: 25px;
+    margin-top: 24px;
     position: relative;
     width: 960px;
 }
@@ -83,7 +95,7 @@ div.container {
 header {
     margin-left: auto;
     margin-right: auto;
-    padding: 25px;
+    padding: 24px;
     width: 960px;
 }
 
