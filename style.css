@@ -83,6 +83,10 @@ a.actionbox {
     width: 200px;
 }
 
+a.actionbox:hover, a.actionbox:active {
+    color: #f90;
+}
+
 
 div.container {
     margin-left: auto;
