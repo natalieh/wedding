@@ -71,8 +71,8 @@ a.social {
     text-decoration: underline;
 }
 
-a.rsvp {
-    border: 2px solid #4bb05e;
+a.actionbox {
+    color: #4bb05e;
     display: block;
     font-size: 24px;
     margin-top: 10px;
@@ -80,7 +80,11 @@ a.rsvp {
     margin-left: auto;
     margin-right: auto;
     padding: 10px;
-    width: 100px;
+    width: 200px;
+}
+
+a.actionbox:hover, a.actionbox:active {
+    color: #f90;
 }
 
 
@@ -173,6 +177,8 @@ table {
     border-spacing: 0;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 tr, td {
