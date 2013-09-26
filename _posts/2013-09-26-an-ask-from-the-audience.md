@@ -24,4 +24,5 @@ OK, but what if we are wrong, and we needed more than intentionality to know if 
 Thanks for listening!  
 
 Until next time,
+
 Natalie
