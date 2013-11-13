@@ -25,7 +25,7 @@ ladies = {'Maid of Honor' : 'Alysia',
 
                   'Bridesmaids' : ['Amy', 'Grace', 'Jessie'],
 
-                  'Flower Girl' : 'Anabella'}
+                  'Flower Girl' : 'Annabella'}
 
 gentlemen = {'Best Man' : 'Aaron',
 
