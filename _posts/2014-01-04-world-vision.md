@@ -1,3 +1,8 @@
+---
+title: Alternative Gifting
+layout: post
+---
+
 There's only two weeks until the wedding! 
 
 I (Cory) got an email a few days ago from one of the stores we're registered at. In the midst of trying to market to 
