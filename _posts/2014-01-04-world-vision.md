@@ -10,7 +10,7 @@ soon-to-be newlyweds who are already worried about having everything arranged fo
 "Most gifts are purchased in the two weeks before the wedding"
 
 So, if you're reading this and you're coming to the wedding, chances are you haven't bought a gift yet! But this post
-isn't a reminder to buy us a wedding present--it's actually to tell you about an exciting alternative to buying us a wedding gift
+isn't a reminder to buy us a wedding present - - it's actually to tell you about an exciting alternative to buying us a wedding gift
 and shipping it or carrying it on your lap in a cramped airplane seat!
 
 Natalie and I believe that our wedding is about more than just us. 
@@ -25,12 +25,12 @@ mean a lot to us if you joined us in supporting them.
 As we prepare to celebrate our marriage with you, we recognize that we have the ability to make a real, impactful, and sustainable difference.
 Your money can be used to buy
 medicine, food, wells, goats, books, and many other items contributing to the well-being of those in need
-Any amount, no matter how small, would mean so much to us--much more than any set of towels or pots or cute fuzzy slippers.
+Any amount, no matter how small, would mean so much to us - - much more than any set of towels or pots or cute fuzzy slippers.
 
 To better serve those in need, we are matching all donations in honor of our marriage. 
 
 So, before you buy that $80 body pillow and try to stuff it into the overhead compartment of the plane, please thoughtfully
 consider giving to World Vision in lieu of a traditional wedding gift. Your partnership with us in meeting the needs of people
-all over the world is more important to us than anything else. You can give online by clicking <a href="http://support.worldvision.org/site/TR/GiftCatalog/GiftCatalog?px=1151804&pg=personal&fr_id=1660">here</a>,
+all over the world is more important to us than anything else. You can give online by visiting this page,
 and there will be opportunities to give at the reception.
 
