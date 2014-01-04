@@ -5,13 +5,10 @@ layout: post
 
 There's only two weeks until the wedding! 
 
-I (Cory) got an email a few days ago from one of the stores we're registered at. In the midst of trying to market to 
-soon-to-be newlyweds who are already worried about having everything arranged for the wedding, it gave this piece of info:
-"Most gifts are purchased in the two weeks before the wedding"
+According to a marketing email from one of the stores we're registered at, most wedding gifts are purchased in the two weeks before the wedding. So, if you're reading this and you're coming to the wedding, chances are you haven't bought a gift yet! 
 
-So, if you're reading this and you're coming to the wedding, chances are you haven't bought a gift yet! But this post
-isn't a reminder to buy us a wedding present&#8210;it's actually to tell you about an exciting alternative to buying us a wedding gift
-and shipping it or carrying it on your lap in a cramped airplane seat!
+But this post isn't a reminder to buy us a wedding present&#8210;it's actually to tell you about an exciting alternative to buying us a wedding gift. Imagine giving a meaningful gift that you don't have to worry about shipping or carrying it on your lap in a cramped airplane seat! (Cory once sat with an owl trashcan on his lap on a flight across the country...
+believe me, you don't want the flight attendants giving you those dirty looks!)
 
 Natalie and I believe that our wedding is about more than just us. 
 We have been blessed beyond measure with gifts, talents, financial means, and one another!
