@@ -24,7 +24,7 @@ mean a lot to us if you joined us in supporting them.
 
 As we prepare to celebrate our marriage with you, we recognize that we have the ability to make a real, impactful, and sustainable difference.
 Your money can be used to buy
-<a href="http://support.worldvision.org/site/TR/GiftCatalog/GiftCatalog?px=1151804&pg=personal&fr_id=1660">medicine, food, wells, goats, books, and many other items</a> contributing to the well-being of those in need
+medicine, food, wells, goats, books, and many other items contributing to the well-being of those in need
 Any amount, no matter how small, would mean so much to us&#8210;much more than any set of towels or pots or cute fuzzy slippers.
 
 To better serve those in need, we are matching all donations in honor of our marriage. 
