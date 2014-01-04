@@ -23,11 +23,11 @@ needs of communities in a sustainable way. These are things that Natalie and I f
 mean a lot to us if you joined us in supporting them.
 
 As we prepare to celebrate our marriage with you, we recognize that we have the ability to make a real, impactful, and sustainable difference.
-Your money can be used to buy <a href="http://support.worldvision.org/site/TR/GiftCatalog/GiftCatalog?px=1151804&pg=personal&fr_id=1660">
-medicine, food, wells, goats, books, and many other items contributing to the well-being of those in need</a> 
+Your money can be used to buy
+medicine, food, wells, goats, books, and many other items contributing to the well-being of those in need
 Any amount, no matter how small, would mean so much to us--much more than any set of towels or pots or cute fuzzy slippers.
 
-To better serve those in need, we are <b>matching all donations</b> in honor of our marriage. 
+To better serve those in need, we are matching all donations in honor of our marriage. 
 
 So, before you buy that $80 body pillow and try to stuff it into the overhead compartment of the plane, please thoughtfully
 consider giving to World Vision in lieu of a traditional wedding gift. Your partnership with us in meeting the needs of people
