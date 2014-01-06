@@ -31,4 +31,4 @@ consider giving to World Vision in lieu of a traditional wedding gift. Your part
 all over the world is more important to us than anything else. You can give online by visiting our <a href="../registries/">Giving Page</a>
 and there will be opportunities to give by cash or check at the reception.
 
-See you in Colorado in two weeks!
+Thanks so much for your support!
