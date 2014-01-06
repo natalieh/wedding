@@ -7,12 +7,12 @@ There's only two weeks until the wedding!
 
 According to a marketing email from one of the stores we're registered at, most wedding gifts are purchased in the two weeks before the wedding. So, if you're reading this and you're coming to the wedding, chances are you haven't bought a gift yet! 
 
-But this post isn't a reminder to buy us a wedding present&#8210;it's actually to tell you about an exciting alternative to buying us a wedding gift. Imagine giving a meaningful gift that you don't have to worry about shipping or carrying it on your lap in a cramped airplane seat! (I, Cory, once sat with an owl trashcan on my lap on a flight across the country...
+But this post isn't a reminder to buy us a wedding present--it's actually to tell you about an exciting alternative to buying us a wedding gift. Imagine giving a meaningful gift that you don't have to worry about shipping or carrying it on your lap in a cramped airplane seat! (I, Cory, once sat with an owl trashcan on my lap on a flight across the country...
 believe me, you don't want the flight attendants giving you those dirty looks!) 
 
 Natalie and I believe that our wedding is about more than just us. 
 We have been blessed beyond measure with gifts, talents, financial means, and one another!
-One of our highest aims in our marriage is to help one another to use these blessings to bless others&#8210;down the street, 
+One of our highest aims in our marriage is to help one another to use these blessings to bless others--down the street, 
 across town, and all over the world. For this reason, we are partnering with <a href="http://www.worldvision.org/">World Vision</a>,
 a Christian humanitarian organization dedicated to improving the lives of people all over the world, regardless of religion,
 racial, or ethnic boundaries. World Vision seeks to deal with the root causes of poverty and injustice by meeting physical
@@ -22,7 +22,7 @@ mean a lot to us if you joined us in supporting them.
 As we prepare to celebrate our marriage with you, we recognize that we have the ability to make a real, impactful, and sustainable difference.
 Your money can be used to buy
 medicine, food, wells, goats, books, and many other items contributing to the well-being of those in need
-Any amount, no matter how small, would mean so much to us&#8210;much more than any set of towels or pots or cute fuzzy slippers.
+Any amount, no matter how small, would mean so much to us--much more than any set of towels or pots or cute fuzzy slippers.
 
 To better serve those in need, we are matching all donations in honor of our marriage. 
 
