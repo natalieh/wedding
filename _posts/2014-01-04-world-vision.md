@@ -31,4 +31,4 @@ consider giving to World Vision in lieu of a traditional wedding gift. Your part
 all over the world is more important to us than anything else. You can give online by visiting our <a href="../registries/">Giving Page</a>
 and there will be opportunities to give by cash or check at the reception.
 
-Thanks so much for your support!
+If you've already purchased a gift, we look foward to opening it joyously together as a married couple! If you haven't, please consider this alternative!
