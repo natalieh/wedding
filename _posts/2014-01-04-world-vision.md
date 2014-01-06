@@ -28,7 +28,7 @@ To better serve those in need, we are matching all donations in honor of our mar
 
 So, before you buy that $80 body pillow and try to stuff it into the overhead compartment of the plane (so that we can then stuff it into our car and drive with it all the way back to San Francisco), please thoughtfully
 consider giving to World Vision in lieu of a traditional wedding gift. Your partnership with us in meeting the needs of people
-all over the world is more important to us than anything else. You can give online by visiting our <a href="../registries/">Giving Page</a>
+all over the world is more important to us than anything else. You can give online by visiting our <a href="/registries/">Giving Page</a>
 and there will be opportunities to give by cash or check at the reception.
 
 If you wish to purchase a gift for us instead of donating, we look forward to opening it joyously together as a married couple! However, we want to make this donation option available to those who are interested.
